@@ -1,0 +1,87 @@
+.jumbo {
+    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.6)), url('./images/2.jpg') no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+}
+
+.jumbotron h1 {
+    font-size: 4em;
+    font-family: elephant;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.about {
+    
+    padding: 20px;
+}
+
+.img {
+    width: 190px;
+    height: 170px;
+    padding: 10px;
+    
+    
+}
+.imgs {
+    width: 180px;
+    height: 160px;
+    padding: 10px;
+    margin-top: 20px;  
+    
+}
+
+.founder {
+    border: 2px solid salmon;
+    border-radius: 10px;
+    padding: 20px;
+    border-style:none;
+}
+
+.founder p {
+    
+    line-height: 30px;
+}
+
+.member{
+    text-align: center;
+    
+}
+
+.member h4{
+    margin-top: 20px;
+    
+}
+
+
+
+.btn {
+    width: 180px;
+    padding: 10px;
+
+}
+
+
+.myTeam {
+
+box-shadow: 0 5px 10px black;
+}
+.myTeam:hover {
+box-shadow:0 15px 30px black;
+}
+
+.myTeam img{
+height: 270px;
+}
+
+.create:hover {
+text-decoration: none;
+}
+
+section.mission {
+background-color: #483d8b;
+}
+section.our-team {
+background-color: #483d8b;
+}

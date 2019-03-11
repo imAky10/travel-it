@@ -1,0 +1,38 @@
+h1.heading {
+    margin-left: 50px;
+}
+
+.box {
+    margin: 20px;
+    width: 46%;
+
+}
+
+form {
+    border: 3px solid salmon;
+    padding: 25px;
+    border-radius: 10px;
+    margin-left:50px;
+    margin-right:50px;
+}
+
+#name {
+    font-size: 1.05em;
+    padding: 9px;
+}
+
+#last-name {
+    font-size: 1.05em;
+    padding: 9px;
+}
+
+
+
+#comment {
+    width: 95%;
+}
+
+.btn {
+    width: 100px;
+    padding: 10px;
+}

@@ -1,0 +1,12 @@
+.myCard {
+    box-shadow: 0 5px 10px black;
+    height: 350px;
+  }
+  .myCard:hover {
+    box-shadow: 0 15px 30px black;
+  }
+  
+  .section-background {
+    background-color: #483d8b;
+  }
+  

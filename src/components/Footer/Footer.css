@@ -1,0 +1,53 @@
+.footerContent ul li a {
+    text-decoration: none;
+    
+    line-height: 30px;
+}
+
+.footerContent ul{
+    list-style-type:  none;
+    
+    margin-top: 15px;
+    
+    font-size: 1.2em;
+}
+
+.footerContent h1 {
+    font-family: broadway;
+    position: relative;
+    top: 33%;
+    font-size: 2.7em;
+    color:lightgray;
+    cursor: pointer;
+    animation: spin 10s infinite linear;
+    
+    
+}
+
+.footerContent h4 {
+    font-family: elephant;
+    font-size: 1.2em;
+    margin-top: 15px;
+    color:salmon;
+
+}
+
+.logo{
+    perspective: 200px;
+}
+
+
+
+.copyright p {
+    padding: 10px;
+    margin: 10px;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotateY(0deg);
+    }
+    100% {
+        transform: rotateY(360deg);
+    }
+}

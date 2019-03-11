@@ -1,0 +1,54 @@
+
+.link:hover {
+    text-decoration: none;
+  }
+
+.state h1 {
+    font-family: Broadway;
+    font-size: 4em;
+    margin-top: 5%;
+    text-align:left;
+     
+}
+
+
+.gujarat{
+    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.6)), url('./images/gujarat.jpg') no-repeat;   
+}
+.delhi{
+    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.6)), url('./images/delhi.jpg') no-repeat;   
+}
+.sikkim{
+    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.6)), url('./images/sikkim.jpg') no-repeat;   
+}
+.goa{
+    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.6)), url('./images/goa.jpg') no-repeat;   
+}
+.rajasthan{
+    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.6)), url('./images/rajasthan.jpg') no-repeat;   
+}
+.maharashtra{
+    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.6)), url('./images/maharashtra.jpg') no-repeat;   
+}
+.tamilnadu{
+    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.6)), url('./images/tamilnadu.jpg') no-repeat;   
+}
+.uttarakhand{
+    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.6)), url('./images/uttarakhand.jpg') no-repeat;   
+}
+.jammu-kashmir{
+    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.6)), url('./images/jammu-kashmir.jpg') no-repeat;   
+}
+.himachal-pradesh{
+    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.6)), url('./images/himachal-pradesh.jpg') no-repeat;   
+}
+.kerala{
+    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.6)), url('./images/kerala.jpg') no-repeat;   
+}
+
+.gujarat,.delhi,.sikkim,.rajasthan,.himachal-pradesh,.jammu-kashmir,.tamilnadu,.kerala,.maharashtra,.uttarakhand,.goa{
+    background-position: center;
+    background-size: cover;
+    height: 350px;
+    width: 100%;
+}

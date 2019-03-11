@@ -1,0 +1,21 @@
+.navigation li {
+    margin-left:20px;
+    margin-right:20px;
+}
+
+.dropdown-item:hover {
+    background-color: #17a2b8;
+    color: white;
+}
+
+.dropdown:hover>.dropdown-menu {
+    display: block;
+}
+
+.dropdown-item {
+    text-align: left;
+}
+
+a, a:active, a:focus {
+    outline: none;
+ }
